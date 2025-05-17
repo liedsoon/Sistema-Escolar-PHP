@@ -66,5 +66,6 @@ http://localhost/projeto/formularioArq.php
 ---
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/43162a0c-815d-4883-8ef4-eb7677aaa646" width="1000px" />
+<img src="https://github.com/user-attachments/assets/5acbdf96-1403-40c8-a20c-097efece989f" width="1000px" />
+<img src="https://github.com/user-attachments/assets/5dc802cb-ca69-4cdd-a27b-8df807434b18" width="1000px" />
 </div>
