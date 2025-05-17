@@ -2,9 +2,8 @@
 
 Este projeto é um sistema simples de cadastro de alunos, com inserção de dados em banco de dados MySQL utilizando PHP. O usuário pode cadastrar nome, matrícula e duas notas, e o sistema calcula automaticamente a média.
 
-## ✍️ Autor
-
-- Desenvolvido por [Seu Nome Aqui] – Projeto didático.
+✍️ Autor  
+Desenvolvido por **José Liedson** – Projeto da disciplina de **Programação Web P1**, 2022.
 
 ---
 
