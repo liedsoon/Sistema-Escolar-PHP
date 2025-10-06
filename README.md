@@ -4,8 +4,19 @@ Este projeto é um sistema simples de cadastro de alunos, com inserção de dado
 
 ---
 
-## ✍️ Autor  
-Desenvolvido por **José Liedson** – Projeto da disciplina de **Programação Web P1**, 2022.
+## ✅ Funcionalidades
+
+- Cadastro de alunos com nome, matrícula e duas notas.
+- Cálculo automático da média.
+- Validação básica dos campos (notas devem ser números).
+- Mensagem de sucesso ou erro usando sessões.
+
+---
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/65b0e991-cd97-4175-8bff-e938078a31dc" width="1000px" />
+<img src="https://github.com/user-attachments/assets/404df024-7dff-42c3-882a-b4e30e91bb34" width="1000px" />
+</div>
 
 ---
 
@@ -57,16 +68,8 @@ http://localhost/projeto/formularioArq.php
 
 ---
 
-## ✅ Funcionalidades
+## ✍️ Autor  
+Desenvolvido por **José Liedson** – Projeto da disciplina de **Programação Web P1**, 2022.
 
-- Cadastro de alunos com nome, matrícula e duas notas.
-- Cálculo automático da média.
-- Validação básica dos campos (notas devem ser números).
-- Mensagem de sucesso ou erro usando sessões.
 
----
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/65b0e991-cd97-4175-8bff-e938078a31dc" width="1000px" />
-<img src="https://github.com/user-attachments/assets/404df024-7dff-42c3-882a-b4e30e91bb34" width="1000px" />
-</div>
